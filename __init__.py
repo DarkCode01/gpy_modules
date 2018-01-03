@@ -1,1 +1,1 @@
-from clasify import clasify
+from clasify import Clasify
