@@ -1,1 +1,1 @@
-pass
+from clasify import clasify
